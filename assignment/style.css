@@ -25,3 +25,6 @@ img {
     border: 10px solid black
 }
 /* Change the font-family of your list */
+ul {
+    font-family: 'Courier New', Courier, monospace;
+}
